@@ -6,3 +6,4 @@ Task4- Script creates an empty file called hello
 Task5- Script adds execute permission to the owner of the file hello
 Task6- Script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 Task7- Script adds execution permission to everyone
+Task8- Script sets all the permissions of the file hello, to other users only
